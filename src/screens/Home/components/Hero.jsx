@@ -6,7 +6,7 @@ function Hero() {
 
     return (
         <div className=' my-10 flex flex-col items-center gap-5'>
-            <h2 className=' text-3xl font-bold text-center'>Top 20 Productivie ideas for your next startup</h2>
+            <h2 className=' text-3xl font-bold text-center'>Top 20 Productive ideas for your next startup</h2>
             <h2 className=' text-center my-3'><strong className=' text-secondary'>Like your favorite ideas. </strong>Like your favorite ideas. Write your best Ideas, no account needed!</h2>
 
             <div>
